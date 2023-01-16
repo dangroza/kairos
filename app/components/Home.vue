@@ -16,7 +16,7 @@
   export default Vue.extend({
     computed: {
       message() {
-        return "Blank {N}-Vue app";
+        return "Kairos";
       }
     },
 
